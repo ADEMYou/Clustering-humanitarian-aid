@@ -9,3 +9,5 @@ This project is a clustering project with socioeconomic data of many countries a
 - Data pre-processing
 
 - Clustering, interpretation and conclusion
+
+**Technologies** : NumPy, Pandas, Matplotlib, Seaborn, Scipy, Scikit-learn, Jupyter Notebook
